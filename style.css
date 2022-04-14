@@ -1,0 +1,32 @@
+body{
+    background-image: url(bg_img.jpg);
+}
+#btn1{
+    color: black;
+    margin-left: 850px;
+    background-color: white;
+}
+#btn2{
+    color: white;
+    margin-left: 50px;
+}
+#btn3{
+    color: white;
+    margin-left: 50px;
+}
+#btn4{
+    color: white;
+    margin-left: 50px;
+}
+.same:hover{
+    background-color: rgb(240, 142, 206);
+    border: 2px solid blue;
+    color: black;
+    
+}
+#div1{
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+
